@@ -22,3 +22,9 @@ skills-lock.json
 
 # The recording script is kept on the team's own machines, not in the repo
 docs/DEMO_SCRIPT.md
+
+# Internal working notes, kept on the team's own machines
+CLAUDE.md
+docs/BUILD_PLAN.md
+docs/DESIGN.md
+docs/inspo/

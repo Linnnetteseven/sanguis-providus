@@ -2,7 +2,7 @@
 
 Run from the repo root:  python -m backend.pipeline.build
 
-Cleaning rules (section 3 of docs/BUILD_PLAN.md):
+Cleaning rules:
 - facilities are joined on facility_id only, never on the typed name;
 - demand is what was requested, kept per facility, component and blood group;
 - a donation becomes supply on its tested date, and only if non-reactive;
