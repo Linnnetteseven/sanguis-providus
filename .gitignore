@@ -19,3 +19,6 @@ __pycache__/
 .claude/skills/
 skills-lock.json
 .agents/
+
+# The recording script is kept on the team's own machines, not in the repo
+docs/DEMO_SCRIPT.md

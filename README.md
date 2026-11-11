@@ -54,7 +54,7 @@ where each week's units go.
   - **Calendar:** school terms, public holidays and malaria months are settings read from the data and the
     Kenyan calendar, to be confirmed for each deployment.
 
-Demo video (3 minutes or less): to add (script in `docs/DEMO_SCRIPT.md`)
+Demo video (3 minutes or less): to add
 Live demo: https://sanguis-providus.vercel.app (how it is hosted: `docs/DEPLOY.md`)
 
 Test log-ins (demo accounts): press **Sign in** and choose a role, or sign in by name and password:
